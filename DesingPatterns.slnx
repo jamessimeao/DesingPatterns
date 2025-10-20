@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Pattern1Memento/Pattern1Memento.csproj" Id="042f1fd8-8d51-470f-9cb8-24c347370644" />
+  <Project Path="Pattern2State/Pattern2State.csproj" Id="b3c89aa4-ee37-484a-b879-786224c728d1" />
+  <Project Path="Pattern3Strategy/Pattern3Strategy.csproj" Id="ea7e55a6-2367-41c1-ac71-c2f477072476" />
+</Solution>
