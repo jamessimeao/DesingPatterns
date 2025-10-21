@@ -4,4 +4,5 @@
   <Project Path="Pattern3Strategy/Pattern3Strategy.csproj" Id="ea7e55a6-2367-41c1-ac71-c2f477072476" />
   <Project Path="Pattern4Iterator/Pattern4Iterator.csproj" Id="fbf41a6c-a3dc-49ae-b832-6e57beceef5b" />
   <Project Path="Pattern5Command/Pattern5Command.csproj" Id="0c833979-8326-418b-be97-5172017477a0" />
+  <Project Path="Pattern6Template/Pattern6Template.csproj" Id="f27d796d-734c-4377-b4ed-5d20a565552f" />
 </Solution>
