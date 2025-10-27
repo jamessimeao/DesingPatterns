@@ -7,4 +7,5 @@
   <Project Path="Pattern6Template/Pattern6Template.csproj" Id="f27d796d-734c-4377-b4ed-5d20a565552f" />
   <Project Path="Pattern7Observer/Pattern7Observer.csproj" Id="3398d9fa-2707-4134-996f-7295a7b90823" />
   <Project Path="Pattern8Mediator/Pattern8Mediator.csproj" Id="af402eb4-3691-45a1-81f1-6698467bbcc0" />
+  <Project Path="Pattern9ChainOfResponsability/Pattern9ChainOfResponsability.csproj" Id="a4d6b4be-7d8e-4aaf-9bde-c02d6340e100" />
 </Solution>
