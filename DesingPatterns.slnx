@@ -3,6 +3,7 @@
   <Project Path="Pattern11Interpreter/Pattern11Interpreter.csproj" Id="9d24c70a-f01d-47a8-9fd4-b5fdcb7f80c1" />
   <Project Path="Pattern12Composite/Pattern12Composite.csproj" Id="1486f4ac-4922-43cd-8311-4ebf3ecf942e" />
   <Project Path="Pattern13Adapter/Pattern13Adapter.csproj" Id="feb17d35-7852-42c2-aa9b-a74b60a447d8" />
+  <Project Path="Pattern14Bridge/Pattern14Bridge.csproj" Id="2c9a9503-bcff-4071-925a-700155d65aca" />
   <Project Path="Pattern1Memento/Pattern1Memento.csproj" Id="042f1fd8-8d51-470f-9cb8-24c347370644" />
   <Project Path="Pattern2State/Pattern2State.csproj" Id="b3c89aa4-ee37-484a-b879-786224c728d1" />
   <Project Path="Pattern3Strategy/Pattern3Strategy.csproj" Id="ea7e55a6-2367-41c1-ac71-c2f477072476" />
